@@ -1,0 +1,6 @@
+{
+    "board": "esp8266:esp8266:generic",
+    "configuration": "CpuFrequency=80,ResetMethod=ck,CrystalFreq=26,FlashFreq=40,FlashMode=dio,FlashSize=512K64,led=2,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=all,UploadSpeed=115200",
+    "port": "COM9",
+    "sketch": "slider_project_ESP8266.ino"
+}

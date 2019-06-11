@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries",
+                "%UserProfile%\\Google Drive\\progetti Arduino\\libraries",
+                "D:/Users/Aure.DESKTOP-HPJ2LMB/Google Drive/progetti Arduino/libraries/AccelStepper/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SoftwareSerial/src",
+                "D:/Users/Aure.DESKTOP-HPJ2LMB/Google Drive/progetti Arduino/libraries/Blynk/src",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\hardware",
+                    "D:\\Users\\Aure.DESKTOP-HPJ2LMB\\Google Drive\\progetti Arduino\\libraries"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}

@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:megaADK",
+    "port": "COM6",
+    "sketch": "slider_project.ino"
+}
